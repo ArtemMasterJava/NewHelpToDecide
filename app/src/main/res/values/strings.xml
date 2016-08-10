@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HelpToDecide</string>
+    <string name="make_descision">Принять решение</string>
+    <string name="my_solutions">Мои решения</string>
+    <string name="about">О нас</string>
+    <string name="will_if_it_happens">Что будет если\n это произойдет?</string>
+    <string name="will_if_it_doesnt_happens">Что будет если\n это НЕ произойдет?</string>
+    <string name="wont_if_it_happens">Что НЕ будет если\n это произойдет?</string>
+    <string name="wont_if_id_doesnt_happens">Что НЕ будет если\n это НЕ произойдет?</string>
+    <string name="descision_title">Title</string>
+    <string name="save_descision">SAVE</string>
+    <string name="btn_add_description">Добавить</string>
+    <string name="enter_description">Введите описание</string>
+    <string name="choose_importance">Выберите важность:</string>
+    <string name="solution_name_dialog">Введите вопрос:</string>
+    <string name="create_solution">Создать решение</string>
+</resources>
